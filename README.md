@@ -148,4 +148,19 @@ void loop(){
 
 ## Modelo esquemático
 
-(TINKERCAD/VIDEO/IMAGENS)
+
+### Como reproduzir (1-1)
+
+#### 1. Conexão GSM:
+
+
+#### 2. Conexão Relé:
+
+
+#### 3. Conexão da Válvula Solenoide:
+
+
+#### 4. Conexão Display LCD:
+
+
+#### TINKERCAD Total:
