@@ -163,4 +163,10 @@ void loop(){
 #### 4. Conexão Display LCD:
 
 
+#### 5. Conexão Sensor de Umidade
+
+
+
 #### TINKERCAD Total:
+
+
