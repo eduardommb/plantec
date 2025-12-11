@@ -152,18 +152,19 @@ void loop(){
 ### Como reproduzir (1-1)
 
 #### 1. Conexão GSM:
+![Circuito LCD](https://i.ibb.co/202qYnV1/Circuito-GSM.png)
 
 
-#### 2. Conexão Relé:
+#### 2. Conexão Relé + Válvula Solenoide:
+![CircuitoReleSolenoide](https://www.makerhero.com/wp-content/uploads/2021/06/arduino-soleinoide3.png.webp)
 
 
-#### 3. Conexão da Válvula Solenoide:
+#### 3. Conexão Display LCD:
+![Circuito LCD](https://i.ibb.co/rGPsJjS4/Circuito-LCD.png)
 
 
-#### 4. Conexão Display LCD:
-
-
-#### 5. Conexão Sensor de Umidade
+#### 4. Conexão Sensor de Umidade
+![Circuito Sensor](https://i.ibb.co/whtLq9Zh/Circuito-Sensor.png)
 
 
 
